@@ -6,17 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 5 |
+| 4 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [greedy](#greedy) (2)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [greedy](#greedy) (3)
+- [implementation](#implementation) (1)
 - [math](#math) (1)
 - [sortings](#sortings) (1)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -26,12 +28,25 @@
 |---|---------|------------|----------|
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 21](https://github.com/luvtomar2005/cp/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
 
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/luvtomar2005/cp/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/luvtomar2005/cp/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/luvtomar2005/cp/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [Java 21](https://github.com/luvtomar2005/cp/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.java) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/luvtomar2005/cp/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 
 ### math
 
@@ -50,6 +65,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/luvtomar2005/cp/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
+| 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/luvtomar2005/cp/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 
 ---
 
