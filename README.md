@@ -6,15 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 4 |
+| 2 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [constructive algorithms](#constructive-algorithms) (1)
+- [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
-- [math](#math) (1)
+- [math](#math) (2)
 - [number theory](#number-theory) (1)
 
 ---
@@ -24,6 +25,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/luvtomar2005/cp/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/luvtomar2005/cp/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
 
 ### implementation
 
@@ -35,6 +42,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/luvtomar2005/cp/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/luvtomar2005/cp/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 
 ### number theory
