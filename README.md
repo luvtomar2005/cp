@@ -6,19 +6,27 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 5 |
+| 6 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (1)
-- [math](#math) (2)
+- [implementation](#implementation) (3)
+- [math](#math) (3)
 - [number theory](#number-theory) (1)
+- [strings](#strings) (1)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/luvtomar2005/cp/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 
 ### constructive algorithms
 
@@ -37,12 +45,15 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/luvtomar2005/cp/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/luvtomar2005/cp/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
+| 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/luvtomar2005/cp/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/luvtomar2005/cp/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/luvtomar2005/cp/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/luvtomar2005/cp/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 
@@ -51,6 +62,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/luvtomar2005/cp/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1883B | [Chemistry](https://codeforces.com/contest/1883/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/luvtomar2005/cp/blob/HEAD/1883/B%20-%20Chemistry/solution.cpp) |
 
 ---
 
